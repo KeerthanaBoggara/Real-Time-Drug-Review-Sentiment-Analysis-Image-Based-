@@ -39,11 +39,6 @@ Image Processing: OpenCV, PIL
 
 ⚡ Installation & Usage
 
-Clone the Repository
-
-git clone https://github.com/yourusername/Drug-Review-Sentiment-Analysis-Image.git
-cd Drug-Review-Sentiment-Analysis-Image
-
 Install Dependencies
 
 pip install -r requirements.txt
